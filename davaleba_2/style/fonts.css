@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(0, 119, 255, 0.959);
+}
+
+p{
+    color: rgb(98, 231, 21);
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+h1{
+    color: rgb(63, 231, 21);
+    font-family: 'Yellowtail', cursive;
+}
+
+h2{
+    color: rgb(231, 21, 21);
+    font-family: 'Permanent Marker', curs   ive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Yellowtail', cursive;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+}
+
+h3{
+    color: rgb(231, 21, 21);
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.material-icons-outlined{
+    background-color:rgba(0, 119, 255, 0.959);
+    color: rgb(231, 21, 21);
+  }
+  
